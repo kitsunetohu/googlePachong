@@ -1,0 +1,292 @@
+[
+	{
+		"id": "gp:AOqpTOFcCFwKYwzYhhEUesg7ZXkvGQx7E7EXPUiAk6c2qtenJmUrJpgmnNYzEVWpZweiar8mbatxsl9hmjNv7Gc",
+		"userName": "賀集淳一郎",
+		"userImage": "https://lh3.googleusercontent.com/-fi42VKmNC9k/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reGHrnKwx73i7Lel7Lbz8AhK2kHWw/photo.jpg",
+		"date": "2017-02-27T19:22:47.352Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOFcCFwKYwzYhhEUesg7ZXkvGQx7E7EXPUiAk6c2qtenJmUrJpgmnNYzEVWpZweiar8mbatxsl9hmjNv7Gc",
+		"title": null,
+		"text": "Good",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.28",
+		"thumbsUp": 1,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOEpYMN51-iCi8fs0CmtbBiYcxW8GkVILn1_yiy_-yb4VO0rk2WwUclKJw-y7Ga3IN0Ab1UEWK9hVBDXx3k",
+		"userName": "mimimi mimimi",
+		"userImage": "https://lh3.googleusercontent.com/a-/AAuE7mCCU55TmzCxIvLcNg4bP3amfnfHYV9BZlfZd4Ey",
+		"date": "2017-11-23T04:34:46.547Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOEpYMN51-iCi8fs0CmtbBiYcxW8GkVILn1_yiy_-yb4VO0rk2WwUclKJw-y7Ga3IN0Ab1UEWK9hVBDXx3k",
+		"title": null,
+		"text": "めっちゃ楽しい",
+		"replyDate": "2017-11-28T04:37:51.358Z",
+		"replyText": "平素は弊社サービスをご利用いただき、誠にありがとうございます。\nプレイヤー様に良い体験を送りいたしますことは、常に陰陽師が追求している目標でございます。\n今後皆さまにより良いゲームを提供できるよう、スタッフ一同尽力して参ります。\n誠に勝手なお願いで恐縮でございますが、今後とも「陰陽師」をご愛顧下さいますよう、どうぞ宜しくお願い申し上げます。",
+		"version": "1.0.54",
+		"thumbsUp": 1,
+		"criterias": [
+			{
+				"criteria": "vaf_games_genre_action_adventure",
+				"rating": 3
+			},
+			{
+				"criteria": "vaf_games_genre_fantasy_rpg",
+				"rating": 1
+			},
+			{
+				"criteria": "vaf_games_genre_adventure",
+				"rating": 3
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOHOWigOlSBGU47mr0JWs3NHUrlfwchCs33bjYELLnoSEpVsp-Z--Zz3IbaMhl_ZRSSNwGahHYPc0-iigc4",
+		"userName": "ra ra",
+		"userImage": "https://lh3.googleusercontent.com/a-/AAuE7mDCJaMJzU0Wi1IGNbYjhyXffkWOwMgsDm916Nwf",
+		"date": "2017-03-02T14:16:21.754Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOHOWigOlSBGU47mr0JWs3NHUrlfwchCs33bjYELLnoSEpVsp-Z--Zz3IbaMhl_ZRSSNwGahHYPc0-iigc4",
+		"title": null,
+		"text": "最高",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.28",
+		"thumbsUp": 0,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOH0br70hV4oPa-3Md7F386zccmCujs6gNNBaqVV9ki9o7LEzwwGHJ2gIGArbpqn_xT2ntQTyos5BJRuVk4",
+		"userName": "姫宮麗子",
+		"userImage": "https://lh3.googleusercontent.com/a-/AAuE7mDjHtir9c_dT5pmAEEBXpX-9gfldMmuZI6-BqTk",
+		"date": "2017-03-19T15:22:48.725Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOH0br70hV4oPa-3Md7F386zccmCujs6gNNBaqVV9ki9o7LEzwwGHJ2gIGArbpqn_xT2ntQTyos5BJRuVk4",
+		"title": null,
+		"text": "いいねぇー！最高😃⤴⤴",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.28",
+		"thumbsUp": 0,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOFrMOsHpUq3AFbynRAXAp-WWcJjLSzuIFwcLA88v3YOBQMSYVICh5rZZZdNd1razTBwArOO_k6DjJyZxRE",
+		"userName": "コプチーノココ",
+		"userImage": "https://lh3.googleusercontent.com/-YGI3BJOPK3o/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re_ht2fyhDSvyigUKDsSWqlNaZ45Q/photo.jpg",
+		"date": "2017-02-23T01:11:07.615Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOFrMOsHpUq3AFbynRAXAp-WWcJjLSzuIFwcLA88v3YOBQMSYVICh5rZZZdNd1razTBwArOO_k6DjJyZxRE",
+		"title": null,
+		"text": "楽しい",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.27",
+		"thumbsUp": 1,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOFCR5k0JEto2VN3x3AtAo8M4PLzxCoGZvYoBY6EEIzhqswTKsqdm6AEFXxv2S3DPfALeeVcud7_0qQ2ufw",
+		"userName": "だいちゃん",
+		"userImage": "https://lh3.googleusercontent.com/a-/AAuE7mDdObNWPddXDuMhzMBMVYEX1ew5hfOrBkrxGoG_TA",
+		"date": "2017-02-25T14:51:03.110Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOFCR5k0JEto2VN3x3AtAo8M4PLzxCoGZvYoBY6EEIzhqswTKsqdm6AEFXxv2S3DPfALeeVcud7_0qQ2ufw",
+		"title": null,
+		"text": "泣けるゲームだね",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.27",
+		"thumbsUp": 0,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOEorJo-ZE_fSH-_Hp7H5T9riHXGzug0JWc3pQDKQF_AaNs1-89RJQem1memC7rxHtipD7zXFn5d1m4xYZY",
+		"userName": "sashimi shika",
+		"userImage": "https://lh3.googleusercontent.com/-cjxp1AreQCo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reT3yeI61WJPPzTJDkPaO3j3eSv4Q/photo.jpg",
+		"date": "2018-08-25T12:48:48.441Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOEorJo-ZE_fSH-_Hp7H5T9riHXGzug0JWc3pQDKQF_AaNs1-89RJQem1memC7rxHtipD7zXFn5d1m4xYZY",
+		"title": null,
+		"text": "GalaxyS9+にてプレイしていますが、画面比率が崩れることがあります。",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.62",
+		"thumbsUp": 0,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOH1WYvYipr36qMcETaBd5LOfwQGJ46hzW22ymM1rdDjNhoYL-E1tqwfXObkxT_VtwhnSWKlNr8TF6d5-_0",
+		"userName": "稀姫・キキ",
+		"userImage": "https://lh3.googleusercontent.com/-mo4A_rOmSSU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rekCxLiOv7xR5dFkmKCMrTndOpZRg/photo.jpg",
+		"date": "2019-01-18T13:20:27.407Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOH1WYvYipr36qMcETaBd5LOfwQGJ46hzW22ymM1rdDjNhoYL-E1tqwfXObkxT_VtwhnSWKlNr8TF6d5-_0",
+		"title": null,
+		"text": "インストし直したら…容量減った(´◉ω◉)逆になんか怖い",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.74",
+		"thumbsUp": 3,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOFDo3URIqOVKPJfiCpXGi-VQr5cOZE8SHhmYWNXcuorGKb9gKw8LityPnMXtJF_f2B0hyWIHgEjx0pEQWw",
+		"userName": "Googleユーザー",
+		"userImage": "https://lh3.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+		"date": "2018-07-02T11:17:32.714Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOFDo3URIqOVKPJfiCpXGi-VQr5cOZE8SHhmYWNXcuorGKb9gKw8LityPnMXtJF_f2B0hyWIHgEjx0pEQWw",
+		"title": null,
+		"text": "音が綺麗👍",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.62",
+		"thumbsUp": 1,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			}
+		]
+	},
+	{
+		"id": "gp:AOqpTOHhUVgVo7gkUxAYio6tJPug4OfPkGqpPeat5yF7VHLMp7d3cTcg6md47xy9A4BsNsfWjqozn2r8IsGrHJM",
+		"userName": "からから",
+		"userImage": "https://lh3.googleusercontent.com/-yuDtu5w8j4o/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcVUYM1X6JKh92QCVMjjSed06NsnQ/photo.jpg",
+		"date": "2017-10-20T06:24:30.191Z",
+		"score": 5,
+		"scoreText": "5",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOHhUVgVo7gkUxAYio6tJPug4OfPkGqpPeat5yF7VHLMp7d3cTcg6md47xy9A4BsNsfWjqozn2r8IsGrHJM",
+		"title": null,
+		"text": "追記になりますが、ログインできました。",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.46",
+		"thumbsUp": 1,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			}
+		]
+	}
+]
