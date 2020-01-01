@@ -13,13 +13,13 @@ fs.unlink("./result/" + id + ".json", function (err) {
 });
 
 
-var arr = [1];
+var arr = [];
 var cont = 1;
 
 store.reviews({
     id: id,
     country: 'jp',
-    sort: store.sort.HELPFUL,
+    sort: store.sort.RECENT,
     page: 1
 }).then((x) => {
     console.log(x);

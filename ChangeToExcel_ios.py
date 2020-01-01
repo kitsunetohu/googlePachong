@@ -2,7 +2,7 @@ import json
 import csv
 import tablib
 
-id="com.netease.onmyoji.na"
+id="1164388317"
 
 with open('./result/'+id+'.json', 'r',encoding='UTF-8') as f:
     rows = json.load(f)
