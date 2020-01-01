@@ -1,5 +1,34 @@
 [
 	{
+		"id": "gp:AOqpTOHcQtKAQRUtIhl25NHzDoya9QgvDqy66yDWFkSGS7h2B94Ni_HJ8FgfhVz4KOrMd5Uw42BLLsJ3p1klE1k",
+		"userName": "零羅",
+		"userImage": "https://lh3.googleusercontent.com/a-/AAuE7mD0dWv6Iz4j83e8Kq48l6YSbHWJz26lwXJz5OSP",
+		"date": "2020-01-01T14:41:42.800Z",
+		"score": 1,
+		"scoreText": "1",
+		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOHcQtKAQRUtIhl25NHzDoya9QgvDqy66yDWFkSGS7h2B94Ni_HJ8FgfhVz4KOrMd5Uw42BLLsJ3p1klE1k",
+		"title": null,
+		"text": "ガチャ率悪すぎ 2.5倍や3倍なのにSSR1体も出ないって何うざいわ",
+		"replyDate": null,
+		"replyText": null,
+		"version": "1.0.97",
+		"thumbsUp": 46,
+		"criterias": [
+			{
+				"criteria": "vaf_games_rating_graphics",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_controls",
+				"rating": null
+			},
+			{
+				"criteria": "vaf_games_rating_gameplay",
+				"rating": null
+			}
+		]
+	},
+	{
 		"id": "gp:AOqpTOFcuaPFcVT3oL0EsaKBrQYrRX3OAIJQcfWCFdVQHpFf38eSI-2W-TYoDxjYS_h0VAWumjLijirWlYNMYGM",
 		"userName": "4ゴンザレス",
 		"userImage": "https://lh3.googleusercontent.com/-dAoQ2LyQnPM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfusSr61hRNMzicF7BGARpZ44FzLw/photo.jpg",
@@ -53,35 +82,6 @@
 			},
 			{
 				"criteria": "vaf_games_single_player",
-				"rating": null
-			}
-		]
-	},
-	{
-		"id": "gp:AOqpTOHcQtKAQRUtIhl25NHzDoya9QgvDqy66yDWFkSGS7h2B94Ni_HJ8FgfhVz4KOrMd5Uw42BLLsJ3p1klE1k",
-		"userName": "零羅",
-		"userImage": "https://lh3.googleusercontent.com/a-/AAuE7mD0dWv6Iz4j83e8Kq48l6YSbHWJz26lwXJz5OSP",
-		"date": "2019-12-31T14:15:39.230Z",
-		"score": 1,
-		"scoreText": "1",
-		"url": "https://play.google.com/store/apps/details?id=com.netease.onmyoji.na&reviewId=gp:AOqpTOHcQtKAQRUtIhl25NHzDoya9QgvDqy66yDWFkSGS7h2B94Ni_HJ8FgfhVz4KOrMd5Uw42BLLsJ3p1klE1k",
-		"title": null,
-		"text": "ガチャ率悪すぎ 2.5倍や3倍なのにSSR1体も出ないって何うざいわ",
-		"replyDate": null,
-		"replyText": null,
-		"version": "1.0.97",
-		"thumbsUp": 46,
-		"criterias": [
-			{
-				"criteria": "vaf_games_rating_graphics",
-				"rating": null
-			},
-			{
-				"criteria": "vaf_games_rating_controls",
-				"rating": null
-			},
-			{
-				"criteria": "vaf_games_rating_gameplay",
 				"rating": null
 			}
 		]
