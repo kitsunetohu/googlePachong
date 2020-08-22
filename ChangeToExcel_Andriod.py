@@ -2,11 +2,12 @@ import json
 import csv
 import tablib
 
-id="com.netease.onmyoji.na"
+id="com.aniplex.twst.jp"
 
 with open('./result/'+id+'.json', 'r',encoding='UTF-8') as f:
     rows = json.load(f)
 print(rows[0])
+
 
 header=('userName','score','date','text')
 

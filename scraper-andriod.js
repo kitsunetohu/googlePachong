@@ -1,14 +1,15 @@
+
 var gplay = require('google-play-scraper');
 var fs = require('fs');
 var fso;
-var id='com.netease.onmyoji.na'//要爬的app的ID，ID可以网页地址栏里看见
+var id='com.aniplex.twst.jp'//要爬的app的ID，ID可以网页地址栏里看见
 
 gplay.reviews({
     appId: id,
     lang: 'ja',//评论的语言
     //country: 'JA',
     sort: gplay.sort.NEWEST,
-    num: '3000'//要多少条评论
+    num: '3000'//要多少条评论 
 }).then((x) => {
     console.log(x[0]);
     let str = JSON.stringify(x, "", "\t")
